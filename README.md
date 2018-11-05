@@ -1,5 +1,5 @@
 # Diabetes Detection Model
-Using a deep neural network will be prediction if a patient has diabetes or not, by training the model on a data set of more than 700 patient test result which is: 
+Using a deep neural network I will be prediction if a patient has diabetes or not, by training the model on a data set of more than 700 patient test result which is: 
 
 -	Glucose
 -	Pregnant or not
